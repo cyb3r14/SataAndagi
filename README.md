@@ -7,6 +7,8 @@ this malware copies its own images to the user's desktop, at the same time it pl
 
 # Compiling
 
+- first of all you need to extract the ```src/data.h.gz``` to ```src/data.h``` with gunzip
+
 ## linux 
 - install mingw compiler and cmake
 - create a new folder called build in the same folder of the project 
